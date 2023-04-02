@@ -59,7 +59,7 @@ const Login = () => {
   return (
     <div
       name="login"
-      className="bg-[#F9F7F7] h-screen w-full grid grid-cols-1 lg:grid-cols-2 bg-string"
+      className="bg-white h-screen w-full grid grid-cols-1 lg:grid-cols-2 bg-string"
     >
       <div className="px-10 lg:pl-20 mx-10 flex flex-col justify-center items-center">
         <img
